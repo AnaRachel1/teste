@@ -1,0 +1,10 @@
+1- Qual a sintaxe para importação de bibliotecas no python?
+Resposta: import xxxxxxxx as xx
+	  from xxxxxx import xxxxxxxxx as xxxxxxxxx 
+	  import pandas as pd (exemplo)
+ 
+2- Qual biblioteca do Python permite a visualização de dados em gráficos simples?
+Resposta: Matplotlib
+
+3- Qual biblioteca do Python gera um DataFrame como sua abstração principal?
+Resposta: Pandas
